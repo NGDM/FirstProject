@@ -1,4 +1,4 @@
-{
+    {
   "name": "firstproject",
   "devDependencies": {
     "apache-server-configs": "^2.7.1",
